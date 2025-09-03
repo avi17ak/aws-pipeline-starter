@@ -21,4 +21,5 @@ INSERT INTO sales (sale_time, sale_number, ceramic_item_id, ceramic_item_purchas
 ('2025-02-25', 2, 5, 1),
 ('2025-02-25', 1, 1, 1),
 ('2025-02-25', 2, 1, 1);
+('2025-02-26', 1, 1, 1);
 
