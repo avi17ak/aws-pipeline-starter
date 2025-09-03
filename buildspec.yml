@@ -12,7 +12,7 @@ phases:
       - echo Build phase
   post_build:
     commands:
-      - echol Post-build phase
+      - echo Post-build phase
 
 artifacts:
   files:
